@@ -19,6 +19,7 @@
   <li><strong>Embedded systems and hardware</strong></li>
   <li><strong>Digital logic and FPGA design</strong></li>
   <li><strong>Programming:</strong> Python, C++, and JavaScript</li>
+  <li><strong>Web development</strong></li>
 </ul>
 
 <p>
@@ -27,15 +28,17 @@
 </p>
 
 <h2>🤝 Let’s Connect</h2>
+
 <ul>
   <li>
     📞 <strong>LinkedIn:</strong>
     <a href="https://www.linkedin.com/in/omar-alberjawi/">Omar Berjawi</a>
   </li>
 </ul>
+
 <p>
-  I’m open to connecting with people in <strong>computer engineering, networking, embedded systems, programming,
-  and All!</strong>
+  I’m open to connecting with people in <strong>computer engineering, networking, embedded systems,
+  programming, and web development</strong>.
 </p>
 <!--
 **omarberjawi/omarberjawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
